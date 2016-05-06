@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredelague01daregoog/histoiredelague01daregoog_0010.png"; bbox 0 0 2260 4152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 1445 1008 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 1445 1008 1508">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 1445 1008 1508; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 628 1497 632 1504; x_wconf 74' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 717 1467 727 1482; x_wconf 53' lang='grc' dir='ltr'><em>Ἴ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 795 1477 800 1490; x_wconf 62' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 806 1497 812 1506; x_wconf 64' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 853 1445 879 1507; x_wconf 48' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_6' title='bbox 899 1467 906 1496; x_wconf 47' lang='grc' dir='ltr'><strong>(Ι</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 928 1449 966 1508; x_wconf 57' lang='grc' dir='ltr'><strong>ΟΞ*</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1003 1489 1008 1498; x_wconf 74' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 1633 1083 1826">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 1633 1083 1826">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 1633 1083 1722; baseline -0.003 -16"><span class='ocrx_word' id='word_1_9' title='bbox 318 1635 381 1706; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 399 1633 716 1722; x_wconf 70' lang='lat' dir='ltr'>mmmmm</span> <span class='ocrx_word' id='word_1_11' title='bbox 734 1633 797 1698; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 817 1636 1083 1710; x_wconf 64' lang='lat' dir='ltr'><strong>mmmmm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 490 1742 937 1826; baseline 0.002 -16"><span class='ocrx_word' id='word_1_13' title='bbox 490 1763 544 1819; x_wconf 75' lang='lat' dir='ltr'><strong>rue</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 556 1742 801 1810; x_wconf 64' lang='lat' dir='ltr'><strong>Hem-sarrazin</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 811 1788 824 1826; x_wconf 55' lang='lat'><strong>,‚</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 835 1750 870 1810; x_wconf 73' lang='grc' dir='ltr'><strong>ι’</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 886 1766 937 1814; x_wconf 73' lang='grc' dir='ltr'><strong>ιι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1134 4152">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1134 4152">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1134 4152; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1134 4152; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
